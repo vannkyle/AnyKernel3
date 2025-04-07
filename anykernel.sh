@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Underworld Kernel For Gale/gust
+kernel.string=Velocity𝕏Kernel For gale/gust
 do.devicecheck=1
 do.modules=0
 do.systemless=1
